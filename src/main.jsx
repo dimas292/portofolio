@@ -6,6 +6,8 @@ import About from './screen/about.jsx'
 import Contact from './screen/contact.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
+
+
 // Suggested code may be subject to a license. Learn more: ~LicenseLog:346677894.
 const router = createBrowserRouter([
   {
