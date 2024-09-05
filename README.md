@@ -5,13 +5,13 @@ Portofolio ini di buat untuk demo tugas mini project series dari fullstack devel
 
 ## Tech Yang Digunakan
 
-**Client:** React TailwindCSS
+**Client:** React TailwindCSS Daisy UI
 
 **Server:** Node JS
 
 **Code Editor:** Project Idx (by google) 
 
-## Contributor
+## Kontributor
 
 - [@heni](https://www.github.com/octokatherine)
 - [@maisan](https://www.github.com/octokatherine)
