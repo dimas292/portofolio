@@ -11,7 +11,7 @@ Portofolio ini di buat untuk demo tugas mini project series dari fullstack devel
 
 **Code Editor:** Project Idx (by google) 
 
-## Contribusi
+## Contributor
 
 - [@heni](https://www.github.com/octokatherine)
 - [@maisan](https://www.github.com/octokatherine)
