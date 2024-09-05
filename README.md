@@ -48,13 +48,14 @@ start untuk menjalankan kode
 
 
 ## Contoh Untuk Membuat Component baru 
-
 ```javascript
 
-function App() {
+function Nama_component() {
   return (
       <h1> hello world</h1>
   )
 }
+
+export default Nama_component
 ```
 
