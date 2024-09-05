@@ -47,7 +47,7 @@ start untuk menjalankan kode
 ```
 
 
-## Usage/Examples
+## Contoh Untuk Membuat Component baru 
 
 ```javascript
 
