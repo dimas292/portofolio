@@ -48,7 +48,7 @@ start untuk menjalankan kode
 
 
 ## Contoh Untuk Membuat Component baru 
-Untuk membuat component baru harus diawali dengan huruf besar
+Untuk membuat component baru harus diawali dengan huruf besar,
 Agar dapat di export/import
 
 ```javascript
