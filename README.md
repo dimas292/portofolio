@@ -1,7 +1,8 @@
 
 # Portofolio 
 
-Portofolio ini di buat untuk tugas mini project yang akan di adakan pada awal semester 
+Portofolio ini di buat untuk tugas mini project Series dari fullstack 
+Program ini dijalankan oleh Asisstant Laboratorium Data Science Universitas Nasional 
 
 ## Tech Yang Digunakan
 
