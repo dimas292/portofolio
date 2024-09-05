@@ -12,7 +12,7 @@ export default function Hero() {
     <div className="hero bg-base-200 min-h-screen">
       <div className="hero-content flex-col lg:flex-row">
         {/* card */}
-        <div className="card bg-base-100 w-96 shadow-xl">
+        <div className="card w-96">
           <div className="card-body">
             {!loading && <Skeleton />}
 
