@@ -1,15 +1,16 @@
 
 # Portofolio 
 
-As part of a data science lab team initiative, we have put together a small project specifically designed to be a mini bootcamp,
-## Tech Stack
+Portofolio ini di buat untuk tugas mini project yang akan di adakan pada awal semester 
+
+## Tech Yang Digunakan
 
 **Client:** React TailwindCSS
 
 **Server:** Node JS
 
 
-## Authors
+## Contribusi
 
 - [@heni](https://www.github.com/octokatherine)
 - [@maisan](https://www.github.com/octokatherine)
@@ -18,30 +19,30 @@ As part of a data science lab team initiative, we have put together a small proj
 - [@rafi](https://www.github.com/octokatherine)
 
 
-## Run Locally
+## Cara menggunakan di perangkat local anda
 
-Clone the project
+Clone project
 
 ```bash
   git clone https://github.com/dimas292/portofolio.git
 ```
 
-Go to the project directory
+Pindah ke Direktori yang anda buat
 
 ```bash
   cd my-project
 ```
 
-Install dependencies
+Install yang diperlukan 
 
 ```bash
   npm install
 ```
 
-Start the server
+start untuk menjalankan kode
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
