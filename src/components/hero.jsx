@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="hero-content flex-col lg:flex-row">
         <img src={photoBio} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
-          <h1 className="text-5xl font-bold animate-bounce animate-infinite animate-ease-out">Hi I'am Dimas!</h1>
+          <h1 className="text-5xl font-bold animate-bounce animate-infinite animate-ease-out" loading="lazy">Hi I'am Dimas!</h1>
           <p className="py-6">
             Loved" is a dynamic and innovative backend development company based
             in Indonesia, specializing in creating robust and scalable
