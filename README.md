@@ -9,6 +9,8 @@ Portofolio ini di buat untuk demo tugas mini project series dari fullstack devel
 
 **Server:** Node JS
 
+## Code Editor
+**Cloud:** Project Idx (by google)
 
 ## Contribusi
 
