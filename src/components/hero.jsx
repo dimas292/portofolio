@@ -29,8 +29,7 @@ export default function Hero() {
 
         <div>
           <h1
-            className="text-5xl font-bold animate-bounce animate-infinite animate-ease-out"
-            loading="lazy"
+            className="text-5xl font-bold "
           >
             Hi I'am Dimas!
           </h1>
