@@ -2,23 +2,31 @@ import photoBio from "../assets/saya.png";
 import { useState } from "react";
 import { TiSocialLinkedinCircular, TiSocialTwitter } from "react-icons/ti";
 import Skeleton from "./skeleton";
+
+
 export default function Hero() {
+// logic to change the skeleton 
   const [loading, setLoading] = useState(false);
+
   return (
     <div className="hero bg-base-200 min-h-screen">
       <div className="hero-content flex-col lg:flex-row">
-     
-          {!loading && (
-            <Skeleton />
-          )}
+        {/* card */}
+        <div className="card bg-base-100 w-96 shadow-xl">
+          <div className="card-body">
+            {!loading && <Skeleton />}
 
-          <img
-            src={photoBio}
-            className="max-w-sm rounded-lg shadow-2xl"
-            loading="lazy"
-            onLoad={() => setLoading(true)} 
-          />
-     
+            <img
+              src={photoBio}
+              className="max-w-sm"
+              loading="lazy"
+              onLoad={() => setLoading(true)}
+            />
+          </div>
+        </div>
+
+        {/* card end */}
+
         <div>
           <h1
             className="text-5xl font-bold animate-bounce animate-infinite animate-ease-out"
