@@ -17,8 +17,9 @@ export default function Hero() {
             {!loading && <Skeleton />}
 
             <img
+              data-aos="zoom-in"
               src={photoBio}
-              className="max-w-sm"
+              className="max-w-sm" 
               loading="lazy"
               onLoad={() => setLoading(true)}
             />
@@ -30,10 +31,12 @@ export default function Hero() {
         <div>
           <h1
             className="text-5xl font-bold "
+            data-aos="zoom-in-left"
           >
             Hi I'am Dimas!
           </h1>
-          <p className="py-6">
+          <p className="py-6"
+          data-aos="zoom-in-right">
             Loved" is a dynamic and innovative backend development company based
             in Indonesia, specializing in creating robust and scalable
             server-side solutions. Our team is dedicated to designing and
