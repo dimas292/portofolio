@@ -9,7 +9,7 @@ import Skill from "./screen/skill";
 function App() {
   return (
     <>
-      <div className="overflow-hidden">
+      <div className="overflow-hidden" >
         <Header />
         <section className="hero">
           <Hero />

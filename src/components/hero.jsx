@@ -45,7 +45,7 @@ export default function Hero() {
             enterprises.
           </p>
           <div className="flex gap-4">
-            <button className="btn btn-primary">Get Started</button>
+            <button className="btn btn-primary" >Get Started</button>
             <TiSocialLinkedinCircular className="text-5xl" />
             <TiSocialTwitter className="text-5xl" />
           </div>
