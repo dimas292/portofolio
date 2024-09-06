@@ -17,7 +17,9 @@ function App() {
         <section className="ex">
           <Experiens />
         </section>
-          {/* <Skill /> */}
+
+          <Skill />
+       
         <footer>
           <Footer />
         </footer>
