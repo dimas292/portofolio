@@ -8,7 +8,7 @@ export default function Experiens() {
   }, []);
 
   return (
-    <div className="bg-base-200 p-10">
+    <div className="bg-base-200 p-10" id="experiens">
       <h1 className="text-5xl font-bold text-center pt-10 pt-10" id="ex">
         Experiens
       </h1>
