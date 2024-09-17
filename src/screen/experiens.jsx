@@ -94,7 +94,7 @@ export default function Experiens() {
               Kontribusi pada proyek open source melibatkan memberikan kode,
               perbaikan bug, fitur baru, atau dokumentasi, yang memperbaiki dan
               memperluas perangkat lunak sambil memfasilitasi kolaborasi dan
-              inovasi komunitas globa
+              inovasi komunitas global
             </div>
             <hr />
           </li>
@@ -121,9 +121,7 @@ export default function Experiens() {
               </div>
               Dalam konteks kompetisi akademik, berkontribusi pada proyek open
               source dengan C++ dapat mencakup pengembangan algoritma efisien,
-              penyelesaian masalah teknis, atau inovasi perangkat lunak, yang
-              dapat meningkatkan keterampilan teknis dan berpotensi memenangkan
-              penghargaan atau pengakuan.
+              penyelesaian masalah teknis, atau inovasi perangkat lunak.
             </div>
             <hr />
           </li>
@@ -152,7 +150,7 @@ export default function Experiens() {
                 Network Engginer At Unggul Computer
               </div>
               <p>
-                Sebagai Network Engineer di Toko Unggul Computer, peran Anda
+                Sebagai Network Engineer di Toko Unggul Computer, peran saya
                 melibatkan merancang, mengelola, dan memelihara infrastruktur
                 jaringan untuk memastikan konektivitas yang stabil dan aman.
                 Anda juga menangani pemecahan masalah, konfigurasi perangkat,
